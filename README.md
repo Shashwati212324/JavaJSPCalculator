@@ -13,9 +13,9 @@ Basic arithmatic operations can be performed and the results are displayed using
 
 ## Tech Stack Used
 
-1 Frontend : HTML, CSS, Bootstrap
-2 Backend : Java JSP, Servlets
-3 Database : MySQL
+| Frontend : HTML, CSS, Bootstrap
+| Backend : Java JSP, Servlets
+| Database : MySQL
 
 ## How it works
 
