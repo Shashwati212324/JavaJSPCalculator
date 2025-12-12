@@ -13,7 +13,7 @@ Basic arithmatic operations can be performed and the results are displayed using
 
 ## Tech Stack Used
 
-1 Frntend : HTML, CSS, Bootstrap
+1 Frontend : HTML, CSS, Bootstrap
 2 Backend : Java JSP, Servlets
 3 Database : MySQL
 
