@@ -19,11 +19,11 @@ Basic arithmatic operations can be performed and the results are displayed using
 
 ## How it works
 
-1 Registration: User register and create an account, the data is stored in MySQL database.
-2 Login: user can login via index.html and the credentials are verified in login.jsp
-3 Session Management: only the logged-in users can access calculator.jsp.
-4 Calculation: user can enter numbers and perform the arithmatic operation, the result will be displayed in result.jsp using <math:calculate> custom tag.
-5 Logout: ends session and redirects the user to the login page.
+#### 1 Registration: User register and create an account, the data is stored in MySQL database.
+#### 2 Login: user can login via index.html and the credentials are verified in login.jsp
+#### 3 Session Management: only the logged-in users can access calculator.jsp.
+#### 4 Calculation: user can enter numbers and perform the arithmatic operation, the result will be displayed in result.jsp using <math:calculate> custom tag.
+#### 5 Logout: ends session and redirects the user to the login page.
 
 
 
