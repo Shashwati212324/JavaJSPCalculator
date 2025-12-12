@@ -25,9 +25,7 @@ Basic arithmatic operations can be performed and the results are displayed using
 4 Calculation: user can enter numbers and perform the arithmatic operation, the result will be displayed in result.jsp using <math:calculate> custom tag.
 5 Logout: ends session and redirects the user to the login page.
 
-##Screenshots 
 
-<img width="645" height="196" alt="image" src="https://github.com/user-attachments/assets/1206a3bf-a769-49ee-8830-9bebd6de1e48" />
 
 
 
