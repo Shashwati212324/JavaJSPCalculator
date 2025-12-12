@@ -7,8 +7,11 @@ Basic arithmatic operations can be performed and the results are displayed using
 ## Features
 
 1 User can register and login with MySQL database.
+
 2 Session Management to protect the calculator page.
+
 3 Custom JSP tag to display calculation results.
+
 4 Logout functionality to end the user session.
 
 ## Tech Stack Used
